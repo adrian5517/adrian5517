@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mern Stack Developer
+I'm Passionate Full Stack Developer
 
 
 ## 🌐 Socials:
