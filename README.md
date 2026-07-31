@@ -86,23 +86,11 @@ status: "Online and shipping code 🚀"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adrian5517&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian5517&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=adrian5517&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adrian5517&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" width="49%"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=adrian5517&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=adrian5517&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" width="70%"/>
 
-</div>
-
-### 🏆 Trophy Room
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adrian5517&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-</div>
-
-### 🔝 Top Contributed Repos
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=adrian5517&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%"/>
 </div>
 
 ---
