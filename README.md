@@ -11,7 +11,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adrian5517&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=adrian5517&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
